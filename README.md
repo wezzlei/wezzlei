@@ -6,8 +6,8 @@ _Sou Weslei,estou aprendendo progamaçao front end_. :hugs:
 
 <div>
 <a href="https://github.com/odejota">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odejota&layout=compact&langs_count=7&theme=react"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=odejota&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva&layout=compact&langs_count=7&theme=react"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
   
 ### Contatos:
