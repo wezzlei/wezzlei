@@ -5,9 +5,9 @@ _Sou Weslei,estou aprendendo progamaçao front end_. :hugs:
 - Agradeçendo a oportunidade oferecida pela Ford e pelo Senai. 
 - [teste youtube](https://www.youtube.com/watch?v=DsxPAFA0_do)
 <div>
-<a href="https://github.com/silva">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva&layout=compact&langs_count=7&theme=react"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=silva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/wezzlei">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezzlei&layout=compact&langs_count=7&theme=react"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=wezzlei&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
   
 ### Contatos:
